@@ -1,0 +1,9 @@
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\bin\Debug\Prueba_movimiento.exe
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\bin\Debug\Prueba_movimiento.pdb
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\ResolveAssemblyReference.cache
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\Prueba_movimiento.Properties.Resources.resources
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\GenerateResource.read.1.tlog
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\GenerateResource.write.1.tlog
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\Prueba_movimiento.exe
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\Prueba_movimiento.pdb
+j:\PROYECTOS_VISUAL\Prueba_movimiento\Prueba_movimiento\obj\x86\Debug\Prueba_movimiento.Form1.resources
